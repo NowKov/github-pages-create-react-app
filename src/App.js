@@ -37,7 +37,11 @@ function App(){
             <div className="seed5"></div>
             <div className="cut-2"></div>
         </div>
-      
+        <div className="description">
+            <h1>
+              This is watermelon
+            </h1>
+        </div>
         <script src="" async defer></script>
       </body>
     );
